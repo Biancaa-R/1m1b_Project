@@ -38,9 +38,9 @@ Get Children excited about... tech?
 a. VR Headsets
 b. Decision of handheld controllers or HoloLens style control
 *** Software
-Would need to build a proof of concept in Unity (requires basic C# and 'creative problem solving'?) - 5 hours to learn Unity + VR builds (ie 3D world building)
-    Graphics in Blender (Requires 3D designing abilities) - 3 hours to learn minimum
-    Could also just build a 2D concept sketch version if less time?
++ Would need to build a proof of concept in Unity (requires basic C# and 'creative problem solving'?) - 5 hours to learn Unity + VR builds (ie 3D world building)
++ Graphics in Blender (Requires 3D designing abilities) - 3 hours to learn minimum
+  - Could also just build a 2D concept sketch version if less time?
 
 + 'Concept Shop' - Similar to something like the (Microsoft store)? for students categorized by Concepts
-  * Children can then create their own games using said concepts the way they do in [[https:https://indreams.me/][Indreams]] (Looks comfortable for VR building elaborate to not say Indreams)
+  + Children can then create their own games using said concepts the way they do in [[https:https://indreams.me/][Indreams]] (Looks comfortable for VR building elaborate to not say Indreams)
