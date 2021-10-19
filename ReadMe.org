@@ -35,8 +35,8 @@ Get Children excited about... tech?
 
 ** Building said Class
 *** Hardware
-a. VR Headsets
-b. Decision of handheld controllers or HoloLens style control
+- VR Headsets
+- Decision of handheld controllers or HoloLens style control
 *** Software
 + Would need to build a proof of concept in Unity (requires basic C# and 'creative problem solving'?) - 5 hours to learn Unity + VR builds (ie 3D world building)
 + Graphics in Blender (Requires 3D designing abilities) - 3 hours to learn minimum
