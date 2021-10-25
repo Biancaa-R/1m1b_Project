@@ -3,7 +3,8 @@
 
 * Immersive learning through Virtual Reality and Gamification
 Ideal Case Senario: Hook students up to a VR headset in class and attend it in the VR World.
-Not a replacement of classes, rather a replacement of the classic chalk board and notebook teaching ??
+Not a replacement of classes, rather a replacement of the classic chalk board and notebook teaching.
+Facilitating learning and provide hands on experiences even when they lack the resources
 
 ** Positives
 - Bringing immersive learning to schools in an innovative way.
@@ -11,6 +12,11 @@ Not a replacement of classes, rather a replacement of the classic chalk board an
   + By Visuallizing said concepts in a VR Class.
 
 ** Negatives
+- The technology may cause children to overuse it
+- More screen time
+- Issues associated with long hours of using vr
+-price issue for unprevileged
+- Teachers from non tech background may find difficulty
 
 * Concepts
 ** Subjects coverage
@@ -20,12 +26,15 @@ Get Children excited about... tech?
 + Visualizing Atoms
 + Combustion Engines
 + Electric Diagrams
++Under water corals sea,reefs
 + Biological life, evolution, aquatic life
 
 *** Social sciences
-+ Civilizations
-+ Historical Events
++ Civilizations eg Mohenjadaro,harapa,arikemedu
++ Historical Events 
++ great wars in history
 + Museums
++wind directions,wave or tide flow directions that is usually difficult to comprehend
 
 *** Abstract Concepts
 + Mathamatical calculations
@@ -44,3 +53,16 @@ Get Children excited about... tech?
 
 + 'Concept Shop' - Similar to something like the (Microsoft store)? for students categorized by Concepts
   + Children can then create their own games using said concepts the way they do in [[https://indreams.me/][Indreams]] (Looks comfortable for VR building elaborate to not say Indreams)
+
+Team 6 members:
+1.Biancaa.R
+2.Saksham
+3.Harshini
+4.Anant jain
+5.Aditya Tyagi
+
+Team 6 mentor:
+Vickie culbertson
+
+Mural board link:
+https://app.mural.co/t/icsimib3202/m/icsimib3202/1634635484728/f5018850aa22edcac67c05dfb44d9b3f2230d7d3?sender=uf116fbf3f92ca68496873629
