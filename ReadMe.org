@@ -69,21 +69,21 @@ Mural board link:
 + https://app.mural.co/t/icsimib3202/m/icsimib3202/1634635484728/f5018850aa22edcac67c05dfb44d9b3f2230d7d3?sender=uf116fbf3f92ca68496873629
 
 Cue-Box Reimagining the Future
-*Remote health monitoring and diagnostics
-*Virtual doctor appointments and access to medical specialists
-* Remote digital solutions for elder care
-* Technologies for blended learning
-* AI powered personalised learning experiences in schools/colleges
-* Immersive learning through Virtual Reality and Gamification
-* Modern workplace powered by smart technology (sensors, data analytics, digitisation)
-* Artificial Intelligence and Chatbots to deliver insurance policies and handle claims
- * Deeper customer engagement with AI powered conversational chatbots
-* Hyper-personalisation of marketing campaigns based on data analytics
-* Enhanced “store” experiences with “scan and go” solutions augmented by AI store assistants
-* Regtech solutions - identity management, monitoring of transactions and identifying risks
-* Fintech: Automation of services like money remittance and KYC verification
-* Data analytics for credit modelling, fraud preventive planning, risk-based planning, market demand forecast
-* AI in Judiciary - analysing and organising data, aiding dispute resolution
-* Disaster management - Using AI to model for better predictions
-* Precision farming with IoT based technologies
- * Technologies for Open Banking
+- Remote health monitoring and diagnostics
+- Virtual doctor appointments and access to medical specialists
+-  Remote digital solutions for elder care
+- 😉 Technologies for blended learning
+- 😉 AI powered personalised learning experiences in schools/colleges
+- 😉 Immersive learning through Virtual Reality and Gamification
+- Modern workplace powered by smart technology (sensors, data analytics, digitisation)
+-  Artificial Intelligence and Chatbots to deliver insurance policies and handle claims
+-  Deeper customer engagement with AI powered conversational chatbots
+- Hyper-personalisation of marketing campaigns based on data analytics
+- Enhanced “store” experiences with “scan and go” solutions augmented by AI store assistants-
+- Regtech solutions - identity management, monitoring of transactions and identifying risks
+- Fintech: Automation of services like money remittance and KYC verification
+- Data analytics for credit modelling, fraud preventive planning, risk-based planning, market demand forecast
+- AI in Judiciary - analysing and organising data, aiding dispute resolution
+- Disaster management - Using AI to model for better predictions
+- Precision farming with IoT based technologies
+- Technologies for Open Banking
