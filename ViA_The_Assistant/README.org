@@ -1,0 +1,21 @@
+#+title: ViA your Virtual Assistant
+#+author: Skshm
+
+[[file:Icons/robot.png]]
+
+** A Chatbot/Assistant built with GPT3 that has the ability to help you with the followinng:
+    + Have Simple Covnersastions
+    + Bring you search results
+    + Solve Math equations
+    + GUI and WebApp implementations
+    And Much More
+
+** Future Procpects:
+    + [x] Ability to add Modules
+    + [ ] Voice input
+    + [ ] Programming Answers with Github CoPilot
+    + [ ] PopUps
+    + [x] Mascot
+    + [ ] Audio Recording
+    + [ ] Camera Access
+    + [x] Audio and Video Playing
