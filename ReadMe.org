@@ -61,6 +61,7 @@ Team 6 members:
 + 3.Harshini
 + 4.Anant jain
 + 5.Aditya Tyagi
++ 6.Dhurv sai
 
 Team 6 mentor:
 + Vickie culbertson
