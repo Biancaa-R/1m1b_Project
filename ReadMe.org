@@ -90,4 +90,9 @@ Cue-Box Reimagining the Future
 - Technologies for Open Banking
 
 IBM Site regarding AR,VR:
+
 https://www.ibm.com/thought-leadership/institute-business-value/report/ar-vr-workplace
+
+https://www.ibm.com/blogs/digital-transformation/in-en/blog/virtual-solutions-driving-immersive-experiences-and-business-outcomes/
+
+https://www.ibm.com/blogs/cloud-archive/2017/06/ibm-watson-powering-virtual-reality/
