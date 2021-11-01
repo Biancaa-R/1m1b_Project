@@ -88,3 +88,6 @@ Cue-Box Reimagining the Future
 - Disaster management - Using AI to model for better predictions
 - Precision farming with IoT based technologies
 - Technologies for Open Banking
+
+IBM Site regarding AR,VR:
+https://www.ibm.com/thought-leadership/institute-business-value/report/ar-vr-workplace
