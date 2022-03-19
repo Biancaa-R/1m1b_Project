@@ -62,6 +62,7 @@ Team 6 members:
 + 4.Anant jain
 + 5.Aditya Tyagi
 + 6.Dhurv sai
++ 7.Rishab Balbezari
 
 Team 6 mentor:
 + Vickie culbertson
